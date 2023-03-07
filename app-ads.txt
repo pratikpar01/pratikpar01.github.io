@@ -75,6 +75,7 @@ appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
 lijit.com, 257429, RESELLER, fafdf38b16bf6b2b
 sovrn.com, 257429, RESELLER, fafdf38b16bf6b2b
 openx.com, 540603695, RESELLER, 6a698e2ec38604c6
+facebook.com, 107471574632442, DIRECT, c3e20eee3f780d68
 gannett.com, 22703897216, DIRECT
 anyclip.com, 0016M00002Wx09BQAR, DIRECT
 aniview.com, 631b56632cc1123bd77adfe2, DIRECT, 78b21b97965ec3f8
