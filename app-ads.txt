@@ -893,5 +893,10 @@ e-planning.net, 6dd3463134c6ef9b, DIRECT, c1ba615865ed87b2
 themediagrid.com, VIY354, DIRECT, 35d5010d7789b49d
 improvedigital.com, 2048, RESELLER
 
+vdo.ai, 3669, DIRECT
+atlas5.co, 3669, DIRECT
+walletcircle.co, 3669, DIRECT
+google.com, pub-7094677798399606, RESELLER, f08c47fec0942fa0
+google.com, pub-2403018226404213, RESELLER, f08c47fec0942fa0
 
 google.com, pub-5413329544040947, RESELLER, f08c47fec0942fa0
